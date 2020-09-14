@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d71812eddfd163ba099daf9ab4fa4309",
+    "revision": "00d930fba6cf9121e69cc304d2c7e664",
     "url": "/VkImageEx/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VkImageEx/static/js/2.f68839d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c242ffebedede1ca5e7e",
-    "url": "/VkImageEx/static/js/main.cec6f347.chunk.js"
+    "revision": "3d79d52619027323f435",
+    "url": "/VkImageEx/static/js/main.b60ea346.chunk.js"
   },
   {
     "revision": "aa292717901600fcd944",

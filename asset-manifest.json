@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/VkImageEx/static/js/main.cec6f347.chunk.js",
-    "main.js.map": "/VkImageEx/static/js/main.cec6f347.chunk.js.map",
+    "main.js": "/VkImageEx/static/js/main.b60ea346.chunk.js",
+    "main.js.map": "/VkImageEx/static/js/main.b60ea346.chunk.js.map",
     "runtime-main.js": "/VkImageEx/static/js/runtime-main.b686b222.js",
     "runtime-main.js.map": "/VkImageEx/static/js/runtime-main.b686b222.js.map",
     "static/css/2.09e62520.chunk.css": "/VkImageEx/static/css/2.09e62520.chunk.css",
     "static/js/2.f68839d3.chunk.js": "/VkImageEx/static/js/2.f68839d3.chunk.js",
     "static/js/2.f68839d3.chunk.js.map": "/VkImageEx/static/js/2.f68839d3.chunk.js.map",
     "index.html": "/VkImageEx/index.html",
-    "precache-manifest.e7dae97c2f9465a8be445c0bc8ff3c6c.js": "/VkImageEx/precache-manifest.e7dae97c2f9465a8be445c0bc8ff3c6c.js",
+    "precache-manifest.b667aec86d0dbaceea4793795671f97d.js": "/VkImageEx/precache-manifest.b667aec86d0dbaceea4793795671f97d.js",
     "service-worker.js": "/VkImageEx/service-worker.js",
     "static/css/2.09e62520.chunk.css.map": "/VkImageEx/static/css/2.09e62520.chunk.css.map",
     "static/js/2.f68839d3.chunk.js.LICENSE.txt": "/VkImageEx/static/js/2.f68839d3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b686b222.js",
     "static/css/2.09e62520.chunk.css",
     "static/js/2.f68839d3.chunk.js",
-    "static/js/main.cec6f347.chunk.js"
+    "static/js/main.b60ea346.chunk.js"
   ]
 }
