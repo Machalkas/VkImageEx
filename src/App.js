@@ -77,13 +77,14 @@ class App extends React.Component {
 
                             <Button size="xl" onClick={ this.getImage }>Загрузить</Button>
                         </FormLayout>
-
+                        
 						{
 							!!image &&
 							<Div style={{ textAlign: 'center' }}>
                                 <img src={ image } alt="remote file" />
 							</Div>
 						}
+                        <Div>user={user}</Div>
                     </Group>
                 </Panel>
             </View>
